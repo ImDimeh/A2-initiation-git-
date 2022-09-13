@@ -1,0 +1,14 @@
+* {
+  text-align: center;
+  font-weight: bolder;
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  text-align: center;
+  color: rgb(204, 54, 174);
+  font-weight: 300;
+  text-decoration: underline;
+}
