@@ -12,3 +12,8 @@ h1 {
   font-weight: 300;
   text-decoration: underline;
 }
+.ex1_txt {
+  text-decoration: underline;
+  background-color: brown;
+  color: aqua;
+}
